@@ -1,4 +1,4 @@
-# NokiaEncryptorDecryptor
+# Nokia Encryptor-Decryptor
 <img src="https://n11scdn.akamaized.net/a1/450/elektronik/diger-yedek-parca/nokia-6020-a-kalite-tus-takimi-bas-konuslu-nokia-telefon-icin__1031264186966757.jpg">
 Bu proje cümlelerinizi ve kelimelerinizi Nokia klavyeye göre şifreleri ve bu şifreleri deşifre eder. Oluşturulan sözlük aşağıdaki gibidir.
 <img src="https://i.ibb.co/TPZQGqF/Nokia-Dict.png">
